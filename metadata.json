@@ -1,0 +1,6 @@
+{
+  "name": "Sanduicheria Betel",
+  "description": "Sanduicheria Betel em Aparecida de Goiânia - GO. Confira nosso cardápio, faça seu pedido e fale conosco pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
